@@ -1,1 +1,0 @@
-print(type(5)) #Prints the class as <class 'int'>

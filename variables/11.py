@@ -1,1 +1,0 @@
-x=5 #correct way to declare a variable
